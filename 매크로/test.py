@@ -1,8 +1,6 @@
 import pyautogui
 import json
-import requests
 import random
-import asyncio
 from datetime import datetime as dt
 from PIL import ImageGrab
 
